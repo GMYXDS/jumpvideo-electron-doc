@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/jumpvideo-electron-doc/',
   head: [["link", { rel: "icon", href: "/jve.ico" }]],
   title: "JumpVideo-Electron",
   description: "通过链接实现笔记到指定视频时刻跳转,jumpvideo,jumpvideo-electron,视频时间戳链接。可以将视频的某个时间点生成链接，方便从笔记中点击链接直达对应的视频播放点。支持potplayer、浏览器网页视频作为载体",
