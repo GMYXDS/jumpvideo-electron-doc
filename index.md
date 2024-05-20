@@ -16,15 +16,18 @@ hero:
     - theme: alt
       text: 使用指南
       link: /useage
+    - theme: alt
+      text: Github
+      link: https://github.com/GMYXDS/jumpvideo-electron
 
 features:
-  - title: 全功能开源
+  - title: 🛠️全功能开源
     details: 永久免费、社区驱动、无会员机制、可离线使用
-  - title: 全新架构
+  - title: 🎉全新架构
     details: 全新架构、全新UI、全新体验
-  - title: 优雅交互
+  - title: 📌优雅交互
     details: 优雅交互、使用门槛低
-  - title: 多平台支持
-    details: Potplayer、Chrome内核浏览器、Firefox浏览器
+  - title: 🚀多平台支持
+    details: Potplayer、chromium内核浏览器、Firefox浏览器
 ---
 
