@@ -19,9 +19,11 @@ export default defineConfig({
       {
         text: '使用指南',
         items: [
-          { text: '使用指南', link: '/useage' },
-          { text: '帮助', link: '/help' },
-          { text: '下载', link: '/download' }
+          { text: "🧭 使用指南", link: "/useage" },
+          { text: "💁 帮助", link: "/help" },
+          { text: "⬇️ 下载", link: "/download" },
+          { text: "👐 开源地址", link: "/opensource" },
+          { text: "🌎 插件支持情况", link: "/websupport" },
         ]
       }
     ],
@@ -32,6 +34,8 @@ export default defineConfig({
           { text: "🧭 使用指南", link: "/useage" },
           { text: "💁 帮助", link: "/help" },
           { text: "⬇️ 下载", link: "/download" },
+          { text: "👐 开源地址", link: "/opensource" },
+          { text: "🌎 插件支持情况", link: "/websupport" },
         ],
       },
     ],
@@ -40,7 +44,7 @@ export default defineConfig({
     ],
     footer: {
       message: "基于 GPL-3.0 许可发布",
-      copyright: "版权所有 © 2024 Opensource",
+      copyright: "Copyright © 2024 Opensource & Powered by VitePress",
     },
     logo: "/jve.png",
     outline: {
